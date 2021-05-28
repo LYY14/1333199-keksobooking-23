@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Юрий Лёгкий](https://up.htmlacademy.ru/javascript/23/user/1333199).
-* Наставник: `Неизвестно`.
+* Наставник: [RAMAN LAURYNIUK](https://htmlacademy.ru/profile/id1666565).
 
 ---
 
